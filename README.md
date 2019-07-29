@@ -1,4 +1,4 @@
-# Api.ai - flight-search app webhook implementation in Python
+# Api.ai - flight-search app webhook implementation in Python by summsu84
 
 This is flight search webhook integrated with Api.ai which is convesration platform by google.
 This provides three function such as flight status, flight schedule, flight FAQ.
